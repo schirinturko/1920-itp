@@ -26,4 +26,4 @@ git remote add origin https://github.com/htl-leonding/my-project.git
 git push -u origin master
 ```
 
-Orange machen: `orange`
+Eine Zeile : `GIT`
